@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # 	Crie um programa em linguagem Python que recebe do usuário um valor de temperatura em graus Celsius e o converta
 # 	para Fahrenheit ou Kelvin. O usuário deve informar “F” ou “f” caso queira efetuar a conversão para Fahrenheit
