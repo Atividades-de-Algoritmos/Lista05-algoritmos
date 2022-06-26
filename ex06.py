@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # 6.	Implemente um programa em linguagem Python que seja capaz de realizar as operações aritméticas de adição,
 # subtração, multiplicação e divisão entre dois números dados. Inicialmente, o usuário deve informar os valores de
