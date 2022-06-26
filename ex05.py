@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # 5.	O Brasil adota, assim como a maioria dos países, o calendário gregoriano como sendo o seu calendário civil.
 # Nele, a maioria dos anos é composto por 365 dias. Entretanto, o tempo necessário para que a Terra orbite o sol é,
