@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # 2.	Elabore um programa em linguagem Python que tem como saída o nome do time vencedor de uma partida de futebol.
 # O seu programa deve receber os nomes dos dois times da partida e o número de gols marcados por cada um deles.
