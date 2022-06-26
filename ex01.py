@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # 1.	Desenvolva um programa em Python que recebe do usuário um número real e exibe em tela se este número é maior,
 # menor ou igual que zero.
