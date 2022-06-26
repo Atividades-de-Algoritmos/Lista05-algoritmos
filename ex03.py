@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # 3.	Considere que uma determinada lista de contatos telefônicos encontre-se possua os registros apresentados
 # na tabela a seguir. Desenvolva um programa em Python que permite que o usuário digite o nome de um contato que
