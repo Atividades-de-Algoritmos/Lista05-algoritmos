@@ -1,19 +1,26 @@
 
 # Autores:
 # Michel Silva
-# Emanuel Frank
+# Emanuel Franklyn
 # Carlos Eduardo
+#
 # data: 26/06/2022
 #
-#
-# 6.	Implemente um programa em linguagem Python que seja capaz de realizar as operações aritméticas de adição,
-# subtração, multiplicação e divisão entre dois números dados. Inicialmente, o usuário deve informar os valores de
-# dois números e em seguida selecionar uma das operações aritméticas citadas. Para isto, ele deve digitar “+” para
-# adição, “-” para subtração, “*” para multiplicação e “/” para divisão. O programa deve apresentar como saída o
-# resultado da operação desejada. Observação. A divisão por zero deve ser evitada, uma vez que esta operação gera um
-# erro em tempo de execução do programa. Desta maneira, caso o divisor da operação de divisão for igual a zero,
-# deve-se apresentar uma mensagem de erro, “ERRO: divisão por zero!”, e NÃO EFETUAR a operação de divisão.
-#
+# 6. Implemente um programa em linguagem Python que seja     
+# capaz de realizar as operações aritméticas de adição,      
+# subtração, multiplicação e divisão entre dois números dados
+# Inicialmente, o usuário deve informar os valores de dois   
+# números e em seguida selecionar uma das operações          
+# aritméticas citadas. Para isto, ele deve digitar “+” para  
+# adição, “-” para subtração, “*” para multiplicação e “/”   
+# para divisão. O programa deve apresentar como saída o      
+# resultado da operação desejada. Observação. A divisão por  
+# zero deve ser evitada, uma vez que esta operação gera um   
+# erro em tempo de execução do programa. Desta maneira, caso 
+# o divisor da operação de divisão for igual a zero, deve-se 
+# apresentar uma mensagem de erro, “ERRO: divisão por zero!”,
+# e NÃO EFETUAR a operação de divisão.                       
+
 # entrada de dados
 num1 = float(input("Digite o primeiro número: ")) # Recebe o primeiro número
 num2 = float(input("Digite o segundo número: ")) # Recebe o segundo número
@@ -27,11 +34,11 @@ elif opcao == "-": # Se a opção for subtração
 elif opcao == "*": # Se a opção for multiplicação
   print(f"{num1} * {num2} = {num1 * num2}") # Imprime o resultado da multiplicação
 elif opcao == "/": # Se a opção for divisão
-  if num2 == 0: # Se o divisor for zero
-    print("ERRO: divisão por zero!")   # Imprime erro
-  else: # Senão
+  if num2 == 0: # Se o dividendo for zero
+    print("ERRO: divisão por zero!") # Imprime erro
+  else: # Caso contrário
     print(f"{num1} / {num2} = {num1 / num2}") # Imprime o resultado da divisão
-else: # Senão
+else: # Caso contrário
   print("Opção inválida de conversão!") # Imprime erro
 
-print("Fim do programa") # Imprime fim do programa
+print("fim do programa") # Informa ao usuário que o programa terminou
