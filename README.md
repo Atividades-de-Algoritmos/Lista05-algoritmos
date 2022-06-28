@@ -186,7 +186,7 @@ python ex04.py
 ```
 Pressione enter para o arquivo ser executado, 
 
-> Será exibido no terminal a porcentagem de pessoas que foram vacinadas com cada uma das vacinas.
+> Será exibido no terminal a conversão escolhida pelo usuário.
 
 <br><br>
 
