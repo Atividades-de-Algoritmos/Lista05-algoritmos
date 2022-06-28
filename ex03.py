@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 27/06/2022
+# Data: 27/06/2022
 #
 # 3. Considere que uma determinada lista de contatos 
 # telefônicos encontre-se possua os registros apresentados na
