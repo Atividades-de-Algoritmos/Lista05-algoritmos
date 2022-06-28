@@ -25,11 +25,14 @@
 # •	Um ano é bissexto se ele for divisível por 400.          
 
 # Entrada de dados
+
 ano = int(input("Digite um ano: ")) # Recebe o ano
 
-# Processamento
+# Processamento e saída de dados
+
 if (ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0): # Se o ano for divisível por 4 e não for divisível por 100 ou se for divisível por 400
   print(f"{ano} é bissexto") # Imprime "Ano bissexto" se o ano for bissexto
+
 else: # Se o ano não for bissexto
   print(f"{ano} não é bissexto") # Imprime "Ano não bissexto"
 
