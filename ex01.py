@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 27/06/2022
 #
 # 1.	Desenvolva um programa em Python que recebe do usuário 
 # um número real e exibe em tela se este número é maior,     
