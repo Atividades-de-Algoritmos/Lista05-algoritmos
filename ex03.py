@@ -1,10 +1,10 @@
-
+#
 # Autores:
 # Michel Silva
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 27/06/2022
 #
 # 3. Considere que uma determinada lista de contatos 
 # telefônicos encontre-se possua os registros apresentados na
@@ -24,9 +24,11 @@
 # #---------------#-------------------#
 
 # Entrada de dados
+
 nome = input("Digite o nome do contato: ") # Recebe o nome do contato
 
-# Processamento
+# Processamento e saída de dados
+
 if nome == "Maria": # Se o nome do contato for "Maria"
   print("Contato: 9111-1111") # Imprime "Contato: 9111-1111"
 elif nome == "Joana": # Se o nome do contato for "Joana"
