@@ -167,7 +167,7 @@ fim do programa
 <br>
 
 # ex04
-#### <a href="https://github.com/Atividades-de-Algoritmos/Lista04-algoritmos/blob/main/ex04.py">Ir até o código</a>
+#### <a href="https://github.com/Atividades-de-Algoritmos/Lista05-algoritmos/blob/main/ex04.py">Ir até o código</a>
 
 <br>
 
@@ -205,7 +205,7 @@ fim do programa
 <br>
 
 # ex05
-#### <a href="https://github.com/Atividades-de-Algoritmos/Lista04-algoritmos/blob/main/ex05.py">Ir até o código</a>
+#### <a href="https://github.com/Atividades-de-Algoritmos/Lista05-algoritmos/blob/main/ex05.py">Ir até o código</a>
 
 <br>
 
@@ -237,7 +237,7 @@ fim do programa
 <br>
 
 # ex06
-#### <a href="https://github.com/Atividades-de-Algoritmos/Lista04-algoritmos/blob/main/ex06.py">Ir até o código</a>
+#### <a href="https://github.com/Atividades-de-Algoritmos/Lista05-algoritmos/blob/main/ex06.py">Ir até o código</a>
 
 <br>
 
