@@ -15,12 +15,14 @@
 # tido um vencedor.                                          
 
 # Entrada de dados
+
 time1 = input("Digite o nome do time 1: ")  # Recebe o nome do time 1
 time2 = input("Digite o nome do time 2: ")  # Recebe o nome do time 2
 gols1 = int(input("Digite o número de gols do time 1: "))  # Recebe o número de gols do time 1
 gols2 = int(input("Digite o número de gols do time 2: "))  # Recebe o número de gols do time 2
 
 # Processamento
+
 if gols1 > gols2: # Se o número de gols do time 1 for maior que o do time 2
   print(f"{time1} venceu") # Imprime "{time1} venceu"
 
